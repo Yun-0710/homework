@@ -11,6 +11,18 @@
 最喜歡的網站：
 https://tetr.io/
 
+![派大星教授](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dcard.tw%2Ff%2Fmeme%2Fp%2F237229501&psig=AOvVaw36CtVXD6bqr3Ae005bIe49&ust=1758610424562000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC22Mfk648DFQAAAAAdAAAAABAE)
+
 >行動是成功的基礎，沒有行動，一切都是空談。- 洛克菲勒
 
- | 任務名稱 | 狀態 | 負責人 | 截止日期 | |---|:---:|:---:|---:| | 需求分析 | 完成 | 小明 | 2023-01-15 | | 資料庫設計 | 進行中 | 小華 | 2023-01-30 | | 前端介面 | 未開始 | 小李 | 2023-02-15 |
+| 學位 | 學校名稱 |
+|:---|:---|
+| 高中 | 國立高雄高商 |
+| 學士 | 國立高雄科技大學 |
+
+```python
+print('\n'.join([''.join([('Love'[(x-y)%4]if((x*0.05)**2+(y*0.1)**2-1)**3-(x*0.05)**2*(y*0.1)**3<=0 else' ')for x in range(-30,30)])for y in range(15,-15,-1)]))
+```
+
+> 程式碼之所以有價值， 是因為它能被閱讀、理解和修改。
+> 版本控制使這一切成為可能。
