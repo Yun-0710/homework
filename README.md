@@ -11,7 +11,7 @@
 最喜歡的網站：
 https://tetr.io/
 
-![派大星教授]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dcard.tw%2Ff%2Fmeme%2Fp%2F237229501&psig=AOvVaw36CtVXD6bqr3Ae005bIe49&ust=1758610424562000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC22Mfk648DFQAAAAAdAAAAABAE](https://megapx-assets.dcard.tw/images/72652fe7-a112-4659-b0fc-ce2d4b8e29ea/1280.jpeg))
+![派大星教授]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fIeoHUtooT3A72n_ZhjlYoWc0gnHgU-VYQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fIeoHUtooT3A72n_ZhjlYoWc0gnHgU-VYQ&s))
 
 >行動是成功的基礎，沒有行動，一切都是空談。- 洛克菲勒
 
